@@ -94,13 +94,6 @@ Python, PowerShell, C++, TypeScript, JavaScript, Rust, GitHub Actions and Window
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
 </p>
 
-## GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TahaHydra&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" alt="TahaHydra GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaHydra&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most used languages">
-</p>
-
 <p align="center">
   <a href="https://xhydra.fr"><strong>xhydra.fr</strong></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;

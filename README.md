@@ -16,18 +16,14 @@ I build practical tools around Windows, Microsoft 365, cloud infrastructure, pri
 <tr>
 <td width="50%" valign="top">
 
-### [Brave-Free-Origin](https://github.com/TahaHydra/Brave-Free-Origin)
-
-<sub>⭐ <img src="https://img.shields.io/github/stars/TahaHydra/Brave-Free-Origin?style=flat-square&label=&color=555555" alt="GitHub stars"></sub>
+### ![GitHub stars](https://img.shields.io/github/stars/TahaHydra/Brave-Free-Origin?style=flat-square&label=%E2%98%85&labelColor=30363d&color=30363d) [Brave-Free-Origin](https://github.com/TahaHydra/Brave-Free-Origin)
 
 Windows GUI for turning standard Brave into a leaner, privacy-focused build using local policy controls, with presets, verification, backups and advanced configuration.
 
 </td>
 <td width="50%" valign="top">
 
-### [CompDesk](https://github.com/TahaHydra/CompDesk)
-
-<sub>⭐ <img src="https://img.shields.io/github/stars/TahaHydra/CompDesk?style=flat-square&label=&color=555555" alt="GitHub stars"></sub>
+### ![GitHub stars](https://img.shields.io/github/stars/TahaHydra/CompDesk?style=flat-square&label=%E2%98%85&labelColor=30363d&color=30363d) [CompDesk](https://github.com/TahaHydra/CompDesk)
 
 Privacy-first self-hosted help desk with department routing, RBAC, Microsoft Entra ID support, PostgreSQL, Docker deployment and security-focused defaults.
 

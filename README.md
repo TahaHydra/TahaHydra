@@ -16,14 +16,14 @@ I build practical tools around Windows, Microsoft 365, cloud infrastructure, pri
 <tr>
 <td width="50%" valign="top">
 
-<p><img align="right" src="./assets/profile-stars-brave.svg" width="59" height="20" alt="114 GitHub stars"> <strong><a href="https://github.com/TahaHydra/Brave-Free-Origin">Brave-Free-Origin</a></strong></p>
+<p><img align="right" src="./assets/profile-stars-brave.svg" height="20" alt="GitHub stars"> <strong><a href="https://github.com/TahaHydra/Brave-Free-Origin">Brave-Free-Origin</a></strong></p>
 
 Windows GUI for turning standard Brave into a leaner, privacy-focused build using local policy controls, with presets, verification, backups and advanced configuration.
 
 </td>
 <td width="50%" valign="top">
 
-<p><img align="right" src="./assets/profile-stars-compdesk.svg" width="51" height="20" alt="66 GitHub stars"> <strong><a href="https://github.com/TahaHydra/CompDesk">CompDesk</a></strong></p>
+<p><img align="right" src="./assets/profile-stars-compdesk.svg" height="20" alt="GitHub stars"> <strong><a href="https://github.com/TahaHydra/CompDesk">CompDesk</a></strong></p>
 
 Privacy-first self-hosted help desk with department routing, RBAC, Microsoft Entra ID support, PostgreSQL, Docker deployment and security-focused defaults.
 

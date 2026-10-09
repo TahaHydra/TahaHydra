@@ -8,8 +8,8 @@ from urllib.request import Request, urlopen
 
 OWNER = "TahaHydra"
 PROJECTS = {
-    "Brave-Free-Origin": Path("assets/profile-stars-brave.svg"),
-    "CompDesk": Path("assets/profile-stars-compdesk.svg"),
+    "Brave-Free-Origin": Path("assets/profile-stars-brave-white.svg"),
+    "CompDesk": Path("assets/profile-stars-compdesk-white.svg"),
 }
 
 STAR_PATH = (
@@ -43,7 +43,7 @@ def render_svg(stars: int) -> str:
         f'<path d="{STAR_PATH}" fill="#e3b341"/>'
         '<text x="23" y="14.5" fill="#ffffff" '
         'font-family="Arial, Helvetica, sans-serif" font-size="13" '
-        f'font-weight="600">{stars}</text></svg>\n'
+        f'font-weight="700">{stars}</text></svg>\n'
     )
 
 

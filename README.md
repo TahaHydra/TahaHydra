@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="TahaHydra — Cybersecurity, Cloud, DevOps and Open Source" width="100%">
-</p>
-
-<p align="center">
-  <a href="https://xhydra.fr"><img src="https://img.shields.io/badge/xhydra.fr-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://github.com/TahaHydra?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"></a>
+  <a href="https://xhydra.fr"><img src="https://img.shields.io/badge/Website-xhydra.fr-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Website: xhydra.fr"></a>
+  &nbsp;
+  <a href="https://github.com/TahaHydra?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-0d1117?style=flat-square&logo=github&logoColor=white" alt="GitHub projects"></a>
 </p>
 
 ## About
@@ -15,50 +12,20 @@ I build practical tools around Windows, Microsoft 365, cloud infrastructure, pri
 
 ## Featured projects
 
+The projects below have at least 10 GitHub stars, ordered by star count (highest first).
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Brave-Free-Origin](https://github.com/TahaHydra/Brave-Free-Origin)
+### [Brave-Free-Origin](https://github.com/TahaHydra/Brave-Free-Origin) ![GitHub stars](https://img.shields.io/github/stars/TahaHydra/Brave-Free-Origin?style=flat-square&label=stars)
 
 Windows GUI for turning standard Brave into a leaner, privacy-focused build using local policy controls, with presets, verification, backups and advanced configuration.
 
 </td>
 <td width="50%" valign="top">
 
-### [Open Comments](https://github.com/TahaHydra/Open-Comments)
-
-Browser extension and web platform that adds an independent discussion layer to any URL, including pages where native comments are unavailable.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [OpenCamBridge](https://github.com/TahaHydra/OpenCamBridge)
-
-Privacy-first Android-to-Windows webcam stack with USB and LAN modes, a native Windows virtual camera, and no cloud account, telemetry, ads or watermark.
-
-</td>
-<td width="50%" valign="top">
-
-### [xHydra Unlock](https://github.com/TahaHydra/XHydra-unlock-release)
-
-Local-first Windows unlock companion using phone approval, biometric authentication, signed challenges and TLS pinning without a mandatory cloud relay.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ProsperoX](https://github.com/TahaHydra/ProsperoX)
-
-Open-source PlayStation 5 emulator work focused on compatibility, graphics, kernel behavior and performance across modern game engines.
-
-</td>
-<td width="50%" valign="top">
-
-### [CompDesk](https://github.com/TahaHydra/CompDesk)
+### [CompDesk](https://github.com/TahaHydra/CompDesk) ![GitHub stars](https://img.shields.io/github/stars/TahaHydra/CompDesk?style=flat-square&label=stars)
 
 Privacy-first self-hosted help desk with department routing, RBAC, Microsoft Entra ID support, PostgreSQL, Docker deployment and security-focused defaults.
 

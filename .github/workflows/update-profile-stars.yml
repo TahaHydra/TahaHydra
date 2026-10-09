@@ -1,0 +1,38 @@
+name: Update profile star counts
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-star-counts
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Update project star counts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_profile_stars.py
+      - name: Commit refreshed star graphics if changed
+        run: |
+          if git diff --quiet -- assets/profile-stars-brave.svg assets/profile-stars-compdesk.svg; then
+            echo "No changes to star counts."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/profile-stars-brave.svg assets/profile-stars-compdesk.svg
+          git commit -m "chore: refresh GitHub profile star counts"
+          git push

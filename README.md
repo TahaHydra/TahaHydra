@@ -16,14 +16,14 @@ I build practical tools around Windows, Microsoft 365, cloud infrastructure, pri
 <tr>
 <td width="50%" valign="top">
 
-### ![GitHub stars](https://img.shields.io/github/stars/TahaHydra/Brave-Free-Origin?style=flat-square&label=%E2%98%85&labelColor=30363d&color=30363d) [Brave-Free-Origin](https://github.com/TahaHydra/Brave-Free-Origin)
+<strong>⭐ 114 &nbsp; <a href="https://github.com/TahaHydra/Brave-Free-Origin">Brave-Free-Origin</a></strong>
 
 Windows GUI for turning standard Brave into a leaner, privacy-focused build using local policy controls, with presets, verification, backups and advanced configuration.
 
 </td>
 <td width="50%" valign="top">
 
-### ![GitHub stars](https://img.shields.io/github/stars/TahaHydra/CompDesk?style=flat-square&label=%E2%98%85&labelColor=30363d&color=30363d) [CompDesk](https://github.com/TahaHydra/CompDesk)
+<strong>⭐ 66 &nbsp; <a href="https://github.com/TahaHydra/CompDesk">CompDesk</a></strong>
 
 Privacy-first self-hosted help desk with department routing, RBAC, Microsoft Entra ID support, PostgreSQL, Docker deployment and security-focused defaults.
 
@@ -32,14 +32,14 @@ Privacy-first self-hosted help desk with department routing, RBAC, Microsoft Ent
 <tr>
 <td width="50%" valign="top">
 
-### [Open Comments](https://github.com/TahaHydra/Open-Comments)
+<strong><a href="https://github.com/TahaHydra/Open-Comments">Open Comments</a></strong>
 
 Browser extension and web platform that adds an independent discussion layer to any URL, including pages where native comments are unavailable.
 
 </td>
 <td width="50%" valign="top">
 
-### [xHydra Unlock](https://github.com/TahaHydra/XHydra-unlock-release)
+<strong><a href="https://github.com/TahaHydra/XHydra-unlock-release">xHydra Unlock</a></strong>
 
 Local-first Windows unlock companion using phone approval, biometric authentication, signed challenges and TLS pinning without a mandatory cloud relay.
 
@@ -48,14 +48,14 @@ Local-first Windows unlock companion using phone approval, biometric authenticat
 <tr>
 <td width="50%" valign="top">
 
-### [ProsperoX](https://github.com/TahaHydra/ProsperoX)
+<strong><a href="https://github.com/TahaHydra/ProsperoX">ProsperoX</a></strong>
 
 Open-source PlayStation 5 emulator work focused on compatibility, graphics, kernel behavior and performance across modern game engines.
 
 </td>
 <td width="50%" valign="top">
 
-### [OpenCamBridge](https://github.com/TahaHydra/OpenCamBridge)
+<strong><a href="https://github.com/TahaHydra/OpenCamBridge">OpenCamBridge</a></strong>
 
 Privacy-first Android-to-Windows webcam stack with USB and LAN modes, a native Windows virtual camera, and no cloud account, telemetry, ads or watermark.
 
